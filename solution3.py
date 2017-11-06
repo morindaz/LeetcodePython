@@ -41,6 +41,7 @@ if __name__ == '__main__':
     print solution.lengthOfLongestSubstring('abcabcbb')
     
 """
+宝宝写的：
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
       
